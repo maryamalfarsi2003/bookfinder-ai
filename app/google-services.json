@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949543864573",
+    "project_id": "bookfinder-abbce",
+    "storage_bucket": "bookfinder-abbce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949543864573:android:087466ee484e3afefdd694",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZOELhb2Rf6on879dV1iIV9vy4i2BVNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

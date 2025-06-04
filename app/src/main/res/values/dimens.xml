@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cover_image_width">100dp</dimen>
+    <dimen name="cover_image_height">150dp</dimen>
+    <dimen name="cover_image_margin">8dp</dimen>
+    <dimen name="horizontal_cover_width">100dp</dimen>
+    <dimen name="horizontal_cover_height">150dp</dimen>
+    <dimen name="horizontal_item_margin">8dp</dimen>
+
+    <dimen name="suggested_question_margin">8dp</dimen>
+    <dimen name="suggested_question_padding_horizontal">12dp</dimen>
+    <dimen name="suggested_question_padding_vertical">6dp</dimen>
+</resources>
